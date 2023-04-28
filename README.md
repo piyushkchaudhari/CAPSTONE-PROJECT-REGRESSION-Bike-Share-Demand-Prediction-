@@ -64,5 +64,5 @@
 ### * Elasticnet regularization performed very poorly.
 ### * Random forest model also gives better results compared to other models
 ### * random forest and extra-trees model gives less random mean squer error compare to other models.
-![image](https://user-images.githubusercontent.com/123857050/235157577-f08ca976-f2e6-4801-a23a-00a87bd417c6.png)
+![image](https://user-images.githubusercontent.com/123857050/235157984-a0715037-82f6-40a1-a2b9-c2e8b9008137.png)
 
