@@ -5,7 +5,7 @@
 ![Smmove-bike-dock](https://user-images.githubusercontent.com/123857050/235152003-0196dad3-b770-4adb-b81c-36b30e4b37a1.png)
 ## About dataset:
 ### This dataset contain information about rental bike . this dataset contain 8760 rows and 14 columns.
-## Dataset
+# Dataset
 ### - Date : year-month-day
 ### - Rented Bike count - Count of bikes rented at each hour
 ### - Hour - Hour of he day
@@ -21,7 +21,7 @@
 ### - Holiday - Holiday/No holiday
 ### - Functional Day - NoFunc(Non Functional Hours), Fun(Functional hours)
 
-## Library Used
+# Library Used
 ### - Pandas : For loading the dataset and performing data wrangling
 ### - NumPy : For performing data wrangling and math operation 
 ### - Calendar : To convert month number to month name
@@ -32,7 +32,7 @@
 ### - Sklearn : For Machine Learning Models.
 ### - Statsmodels : For variance inflation factor
 
-## Steps involved
+# Steps involved
 ### - Installing libraies and getting the dataset.
 ### - Performing EDA (exploratory data analysis).
 ### - Drawing conclusions from the data.
@@ -47,7 +47,7 @@
 ### - Evaluating metrics of all the models.
 ![image](https://user-images.githubusercontent.com/123857050/235155198-6c26c45c-c3ca-4d42-ae8e-0f935014baff.png)
  
- ## Algorithms used
+# Algorithms used
 ### 1)LinearRegression
 ### 2)random forest
 ### 3)Lasso regression
@@ -59,5 +59,5 @@
 ### 9)Random Forest regression
 ### 10)Extra-Trees regression
 
-## Conclusion
+# Conclusion
 
