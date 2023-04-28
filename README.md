@@ -20,3 +20,44 @@
 ### - Seasons - Winter, Spring, Summer, Autumn
 ### - Holiday - Holiday/No holiday
 ### - Functional Day - NoFunc(Non Functional Hours), Fun(Functional hours)
+
+## Library Used
+### - Pandas : For loading the dataset and performing data wrangling
+### - NumPy : For performing data wrangling and math operation 
+### - Calendar : To convert month number to month name
+### - Matplotlib : For data visualization.
+### - Scipy(kda) : For data visualization. 
+### - Seaborn : For data visualization.
+### - Missingno : For Num Values visualization. 
+### - Sklearn : For Machine Learning Models.
+### - Statsmodels : For variance inflation factor
+
+## Steps involved
+### - Installing libraies and getting the dataset.
+### - Performing EDA (exploratory data analysis).
+### - Drawing conclusions from the data.
+### - Using Transformation 
+### - Preprocessing the data.
+### - Feature Engineering
+### - Handling Multicollinearity
+### - Lable Encoding for categorical data 
+### - HYPERPARAMETER TUNING
+### - Training different models.
+### - Feature Importances
+### - Evaluating metrics of all the models.
+![image](https://user-images.githubusercontent.com/123857050/235155198-6c26c45c-c3ca-4d42-ae8e-0f935014baff.png)
+ 
+ ## Algorithms used
+### 1)LinearRegression
+### 2)random forest
+### 3)Lasso regression
+### 4)Ridge regression
+### 5)Elasticnet regression
+### 6)Support Vector Regression
+### 7) Bayesian regression
+### 8)Dicision Tree regression
+### 9)Random Forest regression
+### 10)Extra-Trees regression
+
+## Conclusion
+
