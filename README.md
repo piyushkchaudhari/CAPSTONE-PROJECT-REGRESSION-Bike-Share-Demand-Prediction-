@@ -45,8 +45,7 @@
 ### - Training different models.
 ### - Feature Importances
 ### - Evaluating metrics of all the models.
-![image](https://user-images.githubusercontent.com/123857050/235155198-6c26c45c-c3ca-4d42-ae8e-0f935014baff.png)
- 
+
 # Algorithms used
 ### 1)LinearRegression
 ### 2)random forest
@@ -65,3 +64,5 @@
 ### * Elasticnet regularization performed very poorly.
 ### * Random forest model also gives better results compared to other models
 ### * random forest and extra-trees model gives less random mean squer error compare to other models.
+![image](https://user-images.githubusercontent.com/123857050/235157577-f08ca976-f2e6-4801-a23a-00a87bd417c6.png)
+
