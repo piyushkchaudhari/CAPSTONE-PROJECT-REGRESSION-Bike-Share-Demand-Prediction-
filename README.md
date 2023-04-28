@@ -35,7 +35,7 @@
 # Steps involved
 ### - Installing libraies and getting the dataset.
 ### - Performing EDA (exploratory data analysis).
-### - Drawing conclusions from the data.
+### - Drawing conclusions from the data.![image](https://user-images.githubusercontent.com/123857050/235155198-6c26c45c-c3ca-4d42-ae8e-0f935014baff.png)
 ### - Using Transformation 
 ### - Preprocessing the data.
 ### - Feature Engineering
