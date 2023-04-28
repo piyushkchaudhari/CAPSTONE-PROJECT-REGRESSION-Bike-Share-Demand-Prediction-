@@ -61,3 +61,7 @@
 
 # Conclusion
 
+### * From above its clear that extra-tree regression model is the best model for this dataset.
+### * Elasticnet regularization performed very poorly.
+### * Random forest model also gives better results compared to other models
+### * random forest and extra-trees model gives less random mean squer error compare to other models.
